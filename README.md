@@ -1,4 +1,4 @@
-### Gulf Job Board
+### Project Next
 
 Framework  NextJS, Tailwind CSS (Flowbite)
 Database MongoDB
